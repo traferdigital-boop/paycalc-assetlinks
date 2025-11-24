@@ -1,1 +1,9 @@
 
+[{
+  "relation": ["delegate_permission/common.handle_all_urls"],
+  "target": {
+    "namespace": "android_app",
+    "package_name": "com.trafer.paycalcpro",
+    "sha256_cert_fingerprints": ["3B:CE:FC:0D:21:57:74:E8:E8:DD:20:92:CF:32:84:17:8A:FC:B3:B3:78:A8:74:B3:30:4C:9F:15:B4:22:74:65"]
+  }
+}]
